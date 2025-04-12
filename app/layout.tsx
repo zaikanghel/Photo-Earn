@@ -10,7 +10,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "PhotoEarn - Earn from your photos",
   description: "Upload your photos and earn money",
-  monetag: "c93cd3397ee5606b0cb1f93c29a1a9f7",
 }
 
 export default function RootLayout({
