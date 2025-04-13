@@ -147,7 +147,8 @@ export default function UploadPage() {
         URL.revokeObjectURL(preview)
       }
 
-      router.push("/dashboard/photos")
+      // Redirect after successful upload
+      router.push("https://whoockeg.top/4/8663987") // Replace with your desired URL
       router.refresh()
     } catch (error) {
       console.error("Upload error:", error)
